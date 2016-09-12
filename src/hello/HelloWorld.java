@@ -17,7 +17,9 @@ public class HelloWorld {
         }
 private static int BoolToInt(boolean bool)
     {
+
        if (bool) return 1;
         else return 0;
+
     }
 }
