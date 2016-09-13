@@ -1,6 +1,7 @@
 /**
  * Created by Roman on 30.05.2016.
 * modify today
+* and new change
  * modifyed for git test
  */
 public class KbIn {
